@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # custom app
-    'courses.app.CoursesConfig',
+    'courses.apps.CoursesConfig',
 
 
     # built in
